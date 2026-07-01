@@ -1,0 +1,342 @@
+[
+  {
+    "id": "prod-001",
+    "slug": "notebook-corporativa-15",
+    "name": "Notebook Corporativa 15\"",
+    "sku": "NB-CRP-15-001",
+    "categoryId": "cat-tecnologia",
+    "description": "Notebook empresarial de alto rendimiento para equipos de trabajo remoto y oficinas.",
+    "technicalDescription": "Intel Core i7 12ª gen, 16 GB RAM, SSD 512 GB NVMe, pantalla IPS Full HD.",
+    "specifications": {
+      "brand": "TechPro",
+      "model": "TP-Business 15",
+      "weight": "1.8 kg",
+      "dimensions": "35.6 × 23.5 × 1.9 cm",
+      "warranty": "24 meses"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=1200&q=80",
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8944e2?w=1200&q=80",
+      "https://images.unsplash.com/photo-1588879137331-041c0669a0e5?w=1200&q=80",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=1200&q=80"
+    ],
+    "stock": 142,
+    "estimatedMargin": 35,
+    "logistics": {
+      "grossWeight": "2.1 kg (unidad con embalaje)",
+      "masterBoxDimensions": "42 × 32 × 28 cm",
+      "volumetricWeight": "7.5 kg",
+      "unitsPerMasterBox": 5
+    },
+    "volumePricing": [
+      { "minQuantity": 1, "maxQuantity": 10, "pricePerUnit": 4850000 },
+      { "minQuantity": 11, "maxQuantity": 50, "pricePerUnit": 4620000 },
+      {
+        "minQuantity": 51,
+        "maxQuantity": null,
+        "pricePerUnit": 4380000,
+        "label": "Caja Cerrada"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "prod-002",
+    "slug": "monitor-27-ips",
+    "name": "Monitor IPS 27\" QHD",
+    "sku": "MON-27-IPS-002",
+    "categoryId": "cat-tecnologia",
+    "description": "Monitor profesional con panel IPS, ideal para estaciones de diseño y oficinas.",
+    "technicalDescription": "Resolución 2560×1440, 75 Hz, puertos HDMI/DP/USB-C, soporte VESA.",
+    "specifications": {
+      "brand": "ViewMax",
+      "weight": "5.2 kg",
+      "dimensions": "61.3 × 36.8 × 5.5 cm",
+      "warranty": "36 meses"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=1200&q=80",
+      "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&q=80",
+      "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80"
+    ],
+    "stock": 78,
+    "estimatedMargin": 42,
+    "logistics": {
+      "grossWeight": "6.8 kg (unidad con embalaje)",
+      "masterBoxDimensions": "68 × 42 × 18 cm",
+      "volumetricWeight": "10.3 kg",
+      "unitsPerMasterBox": 4
+    },
+    "volumePricing": [
+      { "minQuantity": 1, "maxQuantity": 5, "pricePerUnit": 2100000 },
+      { "minQuantity": 6, "maxQuantity": 20, "pricePerUnit": 1980000 },
+      {
+        "minQuantity": 21,
+        "maxQuantity": null,
+        "pricePerUnit": 1850000,
+        "label": "Caja Cerrada"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "prod-003",
+    "slug": "switch-24-puertos-gigabit",
+    "name": "Switch 24 Puertos Gigabit",
+    "sku": "NET-SW24-003",
+    "categoryId": "cat-redes",
+    "description": "Switch administrable para infraestructura de red empresarial.",
+    "technicalDescription": "24 puertos RJ45 Gigabit, 4 SFP+, gestión web, montaje en rack.",
+    "specifications": {
+      "brand": "NetCore",
+      "weight": "2.4 kg",
+      "dimensions": "44 × 20 × 4.4 cm",
+      "warranty": "24 meses"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80"
+    ],
+    "stock": 34,
+    "estimatedMargin": 55,
+    "volumePricing": [
+      { "minQuantity": 1, "maxQuantity": 3, "pricePerUnit": 3800000 },
+      { "minQuantity": 4, "maxQuantity": 15, "pricePerUnit": 3550000 },
+      { "minQuantity": 16, "maxQuantity": null, "pricePerUnit": 3280000 }
+    ],
+    "featured": false
+  },
+  {
+    "id": "prod-004",
+    "slug": "cable-utp-cat6-caja",
+    "name": "Cable UTP Cat6 (Caja 305m)",
+    "sku": "NET-CAT6-004",
+    "categoryId": "cat-redes",
+    "description": "Cable de red Cat6 para instalaciones comerciales e industriales.",
+    "technicalDescription": "Bobina 305 metros, conductor de cobre, certificación Cat6, color gris.",
+    "specifications": {
+      "brand": "LinkPro",
+      "weight": "8.5 kg",
+      "dimensions": "40 × 40 × 25 cm",
+      "warranty": "12 meses"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&q=80"
+    ],
+    "stock": 0,
+    "estimatedMargin": 28,
+    "volumePricing": [
+      { "minQuantity": 1, "maxQuantity": 10, "pricePerUnit": 450000 },
+      { "minQuantity": 11, "maxQuantity": 50, "pricePerUnit": 420000 },
+      { "minQuantity": 51, "maxQuantity": null, "pricePerUnit": 395000 }
+    ],
+    "featured": false
+  },
+  {
+    "id": "prod-005",
+    "slug": "camara-ip-4mp",
+    "name": "Cámara IP 4MP PoE",
+    "sku": "SEC-CAM4-005",
+    "categoryId": "cat-seguridad",
+    "description": "Cámara de vigilancia IP con visión nocturna para comercios.",
+    "technicalDescription": "Sensor 4MP, IR 30m, PoE, carcasa IP67, compatible ONVIF.",
+    "specifications": {
+      "brand": "SecureEye",
+      "weight": "0.6 kg",
+      "dimensions": "18 × 8 × 8 cm",
+      "warranty": "24 meses"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=800&q=80"
+    ],
+    "stock": 8,
+    "estimatedMargin": 48,
+    "volumePricing": [
+      { "minQuantity": 1, "maxQuantity": 10, "pricePerUnit": 1200000 },
+      { "minQuantity": 11, "maxQuantity": 50, "pricePerUnit": 1120000 },
+      { "minQuantity": 51, "maxQuantity": null, "pricePerUnit": 1050000 }
+    ],
+    "featured": true
+  },
+  {
+    "id": "prod-006",
+    "slug": "dvr-8-canales",
+    "name": "DVR 8 Canales 4K",
+    "sku": "SEC-DVR8-006",
+    "categoryId": "cat-seguridad",
+    "description": "Grabador digital para sistemas de CCTV comerciales.",
+    "technicalDescription": "8 canales, compresión H.265+, HDD 2 TB incluido, acceso remoto.",
+    "specifications": {
+      "brand": "SecureEye",
+      "weight": "1.9 kg",
+      "dimensions": "30 × 25 × 5 cm",
+      "warranty": "24 meses"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&q=80"
+    ],
+    "stock": 56,
+    "estimatedMargin": 38,
+    "volumePricing": [
+      { "minQuantity": 1, "maxQuantity": 5, "pricePerUnit": 2800000 },
+      { "minQuantity": 6, "maxQuantity": 20, "pricePerUnit": 2650000 },
+      { "minQuantity": 21, "maxQuantity": null, "pricePerUnit": 2480000 }
+    ],
+    "featured": false
+  },
+  {
+    "id": "prod-007",
+    "slug": "filtro-aceite-universal",
+    "name": "Filtro de Aceite Universal",
+    "sku": "REP-FIL-007",
+    "categoryId": "cat-repuestos",
+    "description": "Filtro de aceite compatible con múltiples modelos de vehículos.",
+    "technicalDescription": "Rosca M20×1.5, alta eficiencia de filtrado, pack mayorista.",
+    "specifications": {
+      "brand": "AutoParts",
+      "weight": "0.3 kg",
+      "dimensions": "10 × 10 × 8 cm",
+      "warranty": "6 meses"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800&q=80"
+    ],
+    "stock": 320,
+    "estimatedMargin": 62,
+    "volumePricing": [
+      { "minQuantity": 1, "maxQuantity": 50, "pricePerUnit": 85000 },
+      { "minQuantity": 51, "maxQuantity": 200, "pricePerUnit": 78000 },
+      { "minQuantity": 201, "maxQuantity": null, "pricePerUnit": 72000 }
+    ],
+    "featured": false
+  },
+  {
+    "id": "prod-008",
+    "slug": "pastillas-freno-delanteras",
+    "name": "Pastillas de Freno Delanteras",
+    "sku": "REP-BRK-008",
+    "categoryId": "cat-repuestos",
+    "description": "Juego de pastillas de freno cerámicas para distribución automotriz.",
+    "technicalDescription": "Bajo ruido, bajo polvo, certificación DOT, 4 unidades por set.",
+    "specifications": {
+      "brand": "BrakeMax",
+      "weight": "1.1 kg",
+      "dimensions": "18 × 12 × 6 cm",
+      "warranty": "12 meses"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=800&q=80"
+    ],
+    "stock": 12,
+    "estimatedMargin": 33,
+    "volumePricing": [
+      { "minQuantity": 1, "maxQuantity": 20, "pricePerUnit": 120000 },
+      { "minQuantity": 21, "maxQuantity": 100, "pricePerUnit": 108000 },
+      { "minQuantity": 101, "maxQuantity": null, "pricePerUnit": 98000 }
+    ],
+    "featured": false
+  },
+  {
+    "id": "prod-009",
+    "slug": "arduino-uno-pack-10",
+    "name": "Arduino Uno R3 (Pack x10)",
+    "sku": "ELE-ARD-009",
+    "categoryId": "cat-electronica",
+    "description": "Pack mayorista de placas Arduino para proyectos y educación.",
+    "technicalDescription": "ATmega328P, 14 pines digitales, USB, compatible con shields estándar.",
+    "specifications": {
+      "brand": "MakerBoard",
+      "weight": "0.8 kg",
+      "dimensions": "25 × 18 × 5 cm",
+      "warranty": "12 meses"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    ],
+    "stock": 95,
+    "estimatedMargin": 45,
+    "volumePricing": [
+      { "minQuantity": 1, "maxQuantity": 5, "pricePerUnit": 680000 },
+      { "minQuantity": 6, "maxQuantity": 20, "pricePerUnit": 640000 },
+      { "minQuantity": 21, "maxQuantity": null, "pricePerUnit": 590000 }
+    ],
+    "featured": true
+  },
+  {
+    "id": "prod-010",
+    "slug": "multimetro-digital-pro",
+    "name": "Multímetro Digital Pro",
+    "sku": "ELE-MUL-010",
+    "categoryId": "cat-electronica",
+    "description": "Multímetro de precisión para técnicos y talleres electrónicos.",
+    "technicalDescription": "True RMS, pantalla LCD retroiluminada, protección CAT III 600V.",
+    "specifications": {
+      "brand": "ElectroTest",
+      "weight": "0.4 kg",
+      "dimensions": "18 × 9 × 4 cm",
+      "warranty": "24 meses"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=800&q=80"
+    ],
+    "stock": 6,
+    "estimatedMargin": 52,
+    "volumePricing": [
+      { "minQuantity": 1, "maxQuantity": 10, "pricePerUnit": 290000 },
+      { "minQuantity": 11, "maxQuantity": 50, "pricePerUnit": 265000 },
+      { "minQuantity": 51, "maxQuantity": null, "pricePerUnit": 240000 }
+    ],
+    "featured": false
+  },
+  {
+    "id": "prod-011",
+    "slug": "set-cubiertos-acero-caja50",
+    "name": "Set Cubiertos Acero (Caja x50)",
+    "sku": "BAZ-CUB-011",
+    "categoryId": "cat-bazar",
+    "description": "Sets de cubiertos en acero inoxidable para hoteles y restaurantes.",
+    "technicalDescription": "Acero 18/10, incluye cuchillo, tenedor y cuchara, empaque individual.",
+    "specifications": {
+      "brand": "HomePro",
+      "weight": "12 kg",
+      "dimensions": "45 × 30 × 20 cm",
+      "warranty": "6 meses"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800&q=80"
+    ],
+    "stock": 210,
+    "estimatedMargin": 36,
+    "volumePricing": [
+      { "minQuantity": 1, "maxQuantity": 10, "pricePerUnit": 175000 },
+      { "minQuantity": 11, "maxQuantity": 50, "pricePerUnit": 160000 },
+      { "minQuantity": 51, "maxQuantity": null, "pricePerUnit": 148000 }
+    ],
+    "featured": false
+  },
+  {
+    "id": "prod-012",
+    "slug": "dispenser-papel-a4",
+    "name": "Dispenser Papel A4 Oficina",
+    "sku": "BAZ-DSP-012",
+    "categoryId": "cat-bazar",
+    "description": "Dispenser de papel para oficinas y comercios, venta por volumen.",
+    "technicalDescription": "Plástico ABS reforzado, montaje mural, capacidad 200 hojas.",
+    "specifications": {
+      "brand": "OfficeLine",
+      "weight": "0.5 kg",
+      "dimensions": "30 × 12 × 8 cm",
+      "warranty": "6 meses"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&q=80"
+    ],
+    "stock": 3,
+    "estimatedMargin": 22,
+    "volumePricing": [
+      { "minQuantity": 1, "maxQuantity": 20, "pricePerUnit": 95000 },
+      { "minQuantity": 21, "maxQuantity": 100, "pricePerUnit": 85000 },
+      { "minQuantity": 101, "maxQuantity": null, "pricePerUnit": 78000 }
+    ],
+    "featured": false
+  }
+]

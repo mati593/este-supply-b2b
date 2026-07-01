@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cat-tecnologia",
+    "slug": "tecnologia",
+    "name": "Tecnología",
+    "description": "Equipos informáticos, periféricos y soluciones corporativas para empresas de todos los tamaños.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    "productCount": 248,
+    "featured": true
+  },
+  {
+    "id": "cat-electronica",
+    "slug": "electronica",
+    "name": "Electrónica",
+    "description": "Componentes, dispositivos electrónicos y accesorios con stock para distribución mayorista.",
+    "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=800&q=80",
+    "productCount": 312,
+    "featured": true
+  },
+  {
+    "id": "cat-repuestos",
+    "slug": "repuestos",
+    "name": "Repuestos",
+    "description": "Repuestos originales y compatibles para vehículos, maquinaria y equipos industriales.",
+    "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800&q=80",
+    "productCount": 186,
+    "featured": true
+  },
+  {
+    "id": "cat-bazar",
+    "slug": "bazar",
+    "name": "Bazar",
+    "description": "Artículos para el hogar, oficina y comercio con precios por volumen competitivos.",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&q=80",
+    "productCount": 421,
+    "featured": true
+  },
+  {
+    "id": "cat-redes",
+    "slug": "redes",
+    "name": "Redes & Conectividad",
+    "description": "Routers, switches, cables y soluciones de infraestructura de red empresarial.",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+    "productCount": 94,
+    "featured": true
+  },
+  {
+    "id": "cat-seguridad",
+    "slug": "seguridad",
+    "name": "Seguridad",
+    "description": "Cámaras, alarmas y sistemas de vigilancia para comercios e industrias.",
+    "image": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=800&q=80",
+    "productCount": 67,
+    "featured": true
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "base": "PYG",
+  "rates": {
+    "PYG": { "code": "PYG", "rate": 1, "symbol": "₲", "locale": "es-PY" },
+    "BRL": { "code": "BRL", "rate": 0.00072, "symbol": "R$", "locale": "pt-BR" },
+    "USD": { "code": "USD", "rate": 0.00014, "symbol": "US$", "locale": "en-US" }
+  }
+}
